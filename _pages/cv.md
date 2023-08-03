@@ -11,17 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc Mathematics, University of Sheffield Sheffield, 2023
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
+* 2023 International Summer School of Algebraic Geometry, Jul 10 - Jul 21, 2023
+  * Shanghai Center for Mathematical Sciences
+  * This summer school invites a number of international experts in algebraic geometry to give a short course on moduli space theory. The topic covers algebraic K-stability, moduli spaces over derived categories, and the P = W conjecture.
+  
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
