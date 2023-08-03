@@ -11,7 +11,7 @@ title                    : "Zhichen Wu"
 title_separator          : "-"
 name                     : &name "Zhichen Wu"
 description              : &description "Graduate student at University of Oxford"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://ZhichenWu.github.io"
+url                      : https://ZhichenWu.github.io # the base hostname & protocol for your site e.g. "https://ZhichenWu.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ZhichenWu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zhichen Wu"
-  avatar           : "self photo.jpg"
+  avatar           : "images/self photo.jpg"
   bio              : "zhichen.wu@st-hildas.ox.ac.uk"
   location         : "Oxford, UK"
   employer         :
