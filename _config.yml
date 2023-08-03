@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zhichen Wu"
-  avatar           : "self photo.jpg"
+  avatar           : "files/self photo.jpg"
   bio              : "zhichen.wu@st-hildas.ox.ac.uk"
   location         : "Oxford, UK"
   employer         :
