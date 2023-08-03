@@ -15,14 +15,20 @@ Education
 
 Research experience
 ======
-* 2023 International Summer School of Algebraic Geometry, Jul 10 - Jul 21, 2023
+* [2023 International Summer School of Algebraic Geometry](https://scms.fudan.edu.cn/info/4503/5820.htm), Jul 10 - Jul 21, 2023
   * Shanghai Center for Mathematical Sciences
-  * This summer school invites a number of international experts in algebraic geometry to give a short course on moduli space theory. The topic covers algebraic K-stability, moduli spaces over derived categories, and the P = W conjecture.
+  * This summer school invited a number of international experts in algebraic geometry to give a short course on moduli space theory. The topics include algebraic K-stability, moduli spaces over derived categories, and the P = W conjecture.
   
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer Undergraduate Research Experience, Jun 2022
+  * University of Sheffield
+  * Funded 6-week long Summer Undergraduate Research Internship in Algebraic Topology under the supervision
+of Prof Sarah Whitehouse
+  * This project (the title was ‘Loops and Covers’) looked at covers of spaces and developed an approach to the Van
+Kampen's theorem via the theory of covers.
+
+Conferences and WORKSHOPS
+======
+  
   
 Skills
 ======
