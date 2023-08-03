@@ -15,11 +15,11 @@ Education
 
 Research experience
 ======
-+* [2023 International Summer School of Algebraic Geometry](https://scms.fudan.edu.cn/info/4503/5820.htm), Jul 10 - Jul 21, 2023
+* [2023 International Summer School of Algebraic Geometry](https://scms.fudan.edu.cn/info/4503/5820.htm), Jul 10 - Jul 21, 2023
   * Shanghai Center for Mathematical Sciences
   * This summer school invited a number of international experts in algebraic geometry to give a short course on moduli space theory. The topics include algebraic K-stability, moduli spaces over derived categories, and the P = W conjecture.
   
-+* Summer Undergraduate Research Experience, Jun 2022
+* Summer Undergraduate Research Experience, Jun 2022
   * University of Sheffield
   * Funded 6-week long Summer Undergraduate Research Internship in Algebraic Topology under the supervision
 of Prof Sarah Whitehouse
