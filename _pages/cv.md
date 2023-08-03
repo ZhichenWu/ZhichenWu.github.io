@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-+* BSc Mathematics, University of Sheffield Sheffield, 2023
+* BSc Mathematics, University of Sheffield Sheffield, 2023
 
 Research experience
 ======
