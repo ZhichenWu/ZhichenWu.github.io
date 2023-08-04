@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhichen Wu"
+title                    : "Zhichen's Homepage"
 title_separator          : "-"
 name                     : &name "Zhichen Wu"
 description              : &description "Graduate student at University of Oxford"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zhichen Wu"
-  avatar           : "images/self photo.jpg"
+  avatar           : "self photo.jpg"
   bio              : "zhichen.wu@st-hildas.ox.ac.uk"
   location         : "Oxford, UK"
   employer         :
