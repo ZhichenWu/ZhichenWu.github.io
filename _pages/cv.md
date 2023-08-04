@@ -54,28 +54,9 @@ Reading seminars
 * Algebra and Category Theory, Nov 2022 - Jun 2023
   * Algebra: Chapter 0 by Paolo Aluffi
   * Basic Category Theory by Tom Leinster
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Topology
+  * Basic topology by M. A. Armstrong
+  * Algebraic topology by Allen Hatcher
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 
