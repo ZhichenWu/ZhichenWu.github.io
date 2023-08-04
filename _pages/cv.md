@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * BSc Mathematics, University of Sheffield, 2023
-  * First Class 
+ 
 
 Research experience
 ======
