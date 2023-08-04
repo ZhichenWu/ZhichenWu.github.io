@@ -39,8 +39,8 @@ combination of short lecture courses with problem-solving sessions and colloquiu
 mathematicians. 50 places are available to students per year.
 
 * [AMS-EMS-SMF 2022](https://ams-ems-smf2022.inviteo.fr/), 18 - 22 July, 2022
- * Université Grenoble Alpes
- * The 2nd Joint Congress of Mathematics co-organized by the American Mathematical Society, the European
+  * Université Grenoble Alpes
+  * The 2nd Joint Congress of Mathematics co-organized by the American Mathematical Society, the European
 Mathematical Society and the Société Mathématique de France
 
 
