@@ -44,15 +44,16 @@ mathematicians. 50 places are available to students per year.
   * The 2nd Joint Congress of Mathematics co-organized by the American Mathematical Society, the European
 Mathematical Society and the Société Mathématique de France
 
+* International Conference and Summer School on Applied Topology, August 2021
+  * Hebei Normal University 
+  * Summer courses on Simplicial Homology and Homotopy, and Computational Topology 
 
 
-
-
-  
-  
-Skills
+Reading seminars
 ======
-* Skill 1
+* Algebra and Category Theory, Nov 2022 - Jun 2023
+  * Algebra: Chapter 0 by Paolo Aluffi
+  * Basic Category Theory by Tom Leinster
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
