@@ -30,7 +30,7 @@ Conferences and workshops
 
 * [2023 International Summer School of Algebraic Geometry](https://scms.fudan.edu.cn/info/4503/5820.htm), 10 - 21 Jul, 2023
   * Shanghai Center for Mathematical Sciences
-  * This summer school invited a number of international experts in algebraic geometry to give a short course on moduli space theory. The topics include algebraic K-stability, moduli spaces over derived categories, and the P = W conjecture.
+  * This summer school invited a number of international experts in algebraic geometry to give a short course on moduli space theory. The topics included algebraic K-stability, moduli spaces over derived categories, and the P = W conjecture.
     
 * [LMS Undergraduate Summer School 2022](http://www.lms.macs.hw.ac.uk/),15 - 26 August, 2022
   * Heriot-Watt University and University of Edinburgh
