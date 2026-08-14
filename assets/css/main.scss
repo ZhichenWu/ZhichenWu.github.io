@@ -48,7 +48,8 @@ body { color: #18302b; background: #fbfcfa; }
 .masthead { border: 0; background: #fbfcfa; }
 .masthead__inner-wrap { max-width: 1180px !important; padding: 1.25rem 1.5rem; }
 .greedy-nav { background: transparent; }
-.greedy-nav a { color: #344944; font-size: .88rem; font-weight: 600; }
+.greedy-nav a { margin-left: .55rem; margin-right: .55rem; color: #344944; font-size: .88rem; font-weight: 600; }
+.masthead__menu-item--lg { padding-right: .75rem; }
 .greedy-nav .masthead__menu-item--lg a { color: #18302b; font-size: 1rem; }
 .greedy-nav .visible-links a::before { height: 2px; background: #c5754a; }
 .page__content { font-size: 1em; }
