@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhichen's Homepage"
+title                    : "Zhichen Wu"
 title_separator          : "-"
 name                     : &name "Zhichen Wu"
-description              : &description "Graduate student at University of Oxford"
+description              : &description "Mathematics · AI · Education"
 url                      : https://ZhichenWu.github.io # the base hostname & protocol for your site e.g. "https://ZhichenWu.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ZhichenWu.github.io"
+repository               : "ZhichenWu/zhichenwu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Zhichen Wu"
   avatar           : "Paris.jpg"
-  bio              : "zhichen.wu@st-hildas.ox.ac.uk"
-  location         : "Oxford, UK"
+  bio              : "Mathematics · AI · Education"
+  location         : "Suzhou, China"
   employer         : 
   pubmed           : 
   googlescholar    : 
